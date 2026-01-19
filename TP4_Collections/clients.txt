@@ -1,0 +1,2 @@
+Client [CodeClient=2, NomClient=Neeko, AdrClient=Kassbat amine, TelClient=edd.aya, ListeCommandes=[Commande [NumCommande=2, DateCommande=Mon Oct 25 00:00:00 CEST 3915, NomFournisseur=Aya]]] | Fidelite: 111 (7777.0%)
+Client [CodeClient=1, NomClient=habchi, AdrClient=Sidi ma3rouf, TelClient=marwa.habchi02, ListeCommandes=[Commande [NumCommande=1, DateCommande=Sun Oct 25 00:00:00 CEST 3925, NomFournisseur=marwa]]]
